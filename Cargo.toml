@@ -1,0 +1,8 @@
+[package]
+name = "mute-test"
+version = "0.1.0"
+authors = ["Pavel Chekin <pbchekin@gmail.com>"]
+
+[dependencies]
+threadpool = "1.7.1"
+linebased = "0.3.0"
