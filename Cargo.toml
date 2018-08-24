@@ -5,4 +5,5 @@ authors = ["Pavel Chekin <pbchekin@gmail.com>"]
 
 [dependencies]
 threadpool = "1.7.1"
-linebased = "0.3.0"
+linebased = "0.3.1"
+regex = "1"
